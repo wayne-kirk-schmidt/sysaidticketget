@@ -42,7 +42,6 @@ The project is intentionally built as **standalone** script.
 │   ├── sysaidticketget.ksh
 │   └── sysaidticketget.py
 ├── cfg
-│   ├── README.md
 │   └── requirements.txt
 └── doc
     ├── AUTHORIZATION.md
