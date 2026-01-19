@@ -10,7 +10,7 @@ The project is intentionally built as **standalone** script.
 
 ## Important Documentation
 
-- [Overview](/README.md)  
+- [OVERVIEW](/README.md)  
   This document. General overview of the tool and abilities.
 
 - [EXAMPLES](doc/EXAMPLES.md)  
