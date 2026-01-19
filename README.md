@@ -45,9 +45,11 @@ The project is intentionally built as **standalone** script.
 │   ├── README.md
 │   └── requirements.txt
 └── doc
-    ├── EXAMPLES.md
+    ├── AUTHORIZATION.md
     ├── ENDPOINTS.md
-    └── AUTHORIZATION.md
+    ├── EXAMPLES.md
+    └── TROUBLESHOOTING.md
+
 ```
 
 ---
