@@ -10,16 +10,19 @@ The project is intentionally built as **standalone** script.
 
 ## Important Documentation
 
-- [Overview](README.md)  
+- [Overview](/README.md)  
   This document. General overview of the tool and abilities.
 
-- [Runbook examples](doc/EXAMPLES.md)  
+- [EXAMPLES](doc/EXAMPLES.md)  
   How to run the code.
 
 - [ENDPOINTS](doc/ENDPOINTS.md)  
   The web service this script is leveraging
 
 - [AUTHORIZATION](doc/AUTHORIZATION.md)  
+  what to use, and how to obtain the JSESSIONID
+
+- [TROUBLESHOOTING](doc/TROUBLESHOOTING.md)  
   what to use, and how to obtain the JSESSIONID
 
 ## Design Principles
