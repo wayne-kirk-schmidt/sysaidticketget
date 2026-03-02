@@ -258,7 +258,7 @@ def main():
                 args.verbose
             )
 
-    processing_queue.join()
+    ### processing_queue.join()
 
 
 if __name__ == "__main__":
